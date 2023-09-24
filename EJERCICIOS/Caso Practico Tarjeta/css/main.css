@@ -1,0 +1,49 @@
+/* Add this to your main.css file */
+.card {
+    width: 300px;
+    margin: 50px auto;
+    background: linear-gradient(45deg, #ff6b6b, #ffb88c, #f3c78a, #a0ced9); /* Colorful gradient background */
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    color: #ecf0f1;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .card img {
+    border-radius: 50%;
+    border: 8px solid #2980b9; /* Dark blue border */
+    margin-bottom: 20px;
+  }
+  
+  .info {
+    margin-top: 20px;
+  }
+  
+  .name {
+    font-size: 1.8em;
+    font-weight: bold;
+  }
+  
+  .job-title {
+    font-size: 1.2em;
+    font-style: italic;
+  }
+  
+  .contact {
+    margin-top: 20px;
+    font-size: 1.1em;
+  }
+  
+  .contact img {
+    width: 20px;
+    vertical-align: middle;
+    margin-right: 10px;
+  }
+  
+  .contact span {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
